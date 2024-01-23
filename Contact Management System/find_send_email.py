@@ -44,8 +44,8 @@ def get_tomorrows_birthdays(filename):
 
 def send_birthday_email(receiver_email, birthday_person, birthday_message):
     # 你的邮箱地址和密码
-    sender_email = '2524533592@qq.com'
-    sender_password = 'uechhrpzqfqfdhjd'
+    sender_email = 'your_qq_number@qq.com'
+    sender_password = 'aosudhiuahsd' # read readme file to access your own password
     smtp_server = 'smtp.qq.com'
     smtp_port = 587
 
